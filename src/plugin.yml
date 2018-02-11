@@ -1,0 +1,9 @@
+name: ChatTempMute
+main: org.densyakun.bukkit.chattempmute.Main
+version: 1.0
+author: Densyakun
+website: http://densyakun.github.io/
+commands:
+   mute:
+   unmute:
+   mutelist:
